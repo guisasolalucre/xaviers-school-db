@@ -1,0 +1,320 @@
+{
+  "users": [
+      {
+          "id": "Bi6_2",
+          "username": "admin",
+          "password": "admin",
+          "role": "ADMINISTRATOR",
+          "token": "nPXR5cpDLWEf6uktA6x5UST3L"
+      },
+      {
+          "id": "Hl9d3",
+          "username": "assist",
+          "password": "assist",
+          "role": "ASSISTANT",
+          "token": "ywvmIKFblMTGINDuoyZgN_WQD"
+      }
+  ],
+  "students": [
+      {
+          "id": "2UeoA",
+          "active": false,
+          "idnumber": 98765432,
+          "name": "Bobby",
+          "surname": "Drake",
+          "dob": "1992-02-15T00:00:00.000Z",
+          "email": "iceman@example.com"
+      },
+      {
+          "id": "xzBi6",
+          "idnumber": 12345678,
+          "active": true,
+          "name": "Scott",
+          "surname": "Summers",
+          "dob": "1963-09-01T00:00:00.000Z",
+          "email": "cyclops@example.com"
+      },
+      {
+          "id": "wUHl9",
+          "idnumber": 87654321,
+          "active": true,
+          "name": "Jean",
+          "surname": "Grey",
+          "dob": "1963-09-01T00:00:00.000Z",
+          "email": "phoenix@example.com"
+      },
+      {
+          "id": "H4Sbf",
+          "idnumber": 23456789,
+          "active": true,
+          "name": "Ororo",
+          "surname": "Munroe",
+          "dob": "1975-05-01T00:00:00.000Z",
+          "email": "storm@example.com"
+      },
+      {
+          "id": "SxAzZ",
+          "idnumber": 54321678,
+          "active": true,
+          "name": "Logan",
+          "surname": "Howlett",
+          "dob": "1974-11-01T00:00:00.000Z",
+          "email": "wolverine@example.com"
+      },
+      {
+          "id": "rR0uC",
+          "idnumber": 34567890,
+          "active": true,
+          "name": "Kurt",
+          "surname": "Wagner",
+          "dob": "1975-05-01T00:00:00.000Z",
+          "email": "nightcrawler@example.com"
+      },
+      {
+          "id": "V2eq2",
+          "idnumber": 87654321,
+          "active": true,
+          "name": "Kitty",
+          "surname": "Pryde",
+          "dob": "1980-11-01T00:00:00.000Z",
+          "email": "shadowcat@example.com"
+      },
+      {
+          "id": "o6dkV",
+          "idnumber": 45678901,
+          "active": false,
+          "name": "Remy",
+          "surname": "LeBeau",
+          "dob": "1990-04-01T00:00:00.000Z",
+          "email": "gambit@example.com"
+      },
+      {
+          "id": "M1lkv",
+          "idnumber": 56789012,
+          "active": true,
+          "name": "Rogue",
+          "surname": "Doe",
+          "dob": "1981-06-01T00:00:00.000Z",
+          "email": "rogue@example.com"
+      },
+      {
+          "id": "c_7yf",
+          "idnumber": 78901234,
+          "active": true,
+          "name": "Hank",
+          "surname": "McCoy",
+          "dob": "1963-09-01T00:00:00.000Z",
+          "email": "beast@example.com"
+      },
+      {
+          "id": "Iv36r",
+          "idnumber": 10101010,
+          "active": true,
+          "name": "Lucrecia",
+          "surname": "Guisasola",
+          "dob": "1992-09-18T03:00:00.000Z",
+          "email": "test@test"
+      }
+  ],
+  "courses": [
+      {
+          "id": "g-Drk",
+          "name": {
+              "id": "abcde",
+              "nameString": "Control of Mutant Powers"
+          },
+          "startDate": "2023-11-04T03:00:00.000Z",
+          "endDate": "2024-06-14T03:00:00.000Z",
+          "teacher": {
+              "id": "s68_G",
+              "name": "Professor Charles Xavier"
+          }
+      },
+      {
+          "id": "h-Drk",
+          "name": {
+              "id": "fghij",
+              "nameString": "Mutant Ethics"
+          },
+          "startDate": "2023-12-18T03:00:00.000Z",
+          "endDate": "2024-12-02T03:00:00.000Z",
+          "teacher": {
+              "id": "s68_G",
+              "name": "Professor Charles Xavier"
+          }
+      },
+      {
+          "id": "j-Drk",
+          "name": {
+              "id": "klmno",
+              "nameString": "Combat Training"
+          },
+          "startDate": "2023-12-11T03:00:00.000Z",
+          "endDate": "2024-07-26T03:00:00.000Z",
+          "teacher": {
+              "id": "e12_L",
+              "name": "Dr. Erik Lehnsher"
+          }
+      },
+      {
+          "id": "q-Drk",
+          "name": {
+              "id": "pqrst",
+              "nameString": "Telepathy and Telekinesis"
+          },
+          "startDate": "2024-01-15T03:00:00.000Z",
+          "endDate": "2024-10-11T03:00:00.000Z",
+          "teacher": {
+              "id": "s68_G",
+              "name": "Professor Charles Xavier"
+          }
+      },
+      {
+          "id": "l-Drk",
+          "name": {
+              "id": "uvwxy",
+              "nameString": "Weather Control"
+          },
+          "startDate": "2024-02-05T03:00:00.000Z",
+          "endDate": "2024-06-07T03:00:00.000Z",
+          "teacher": {
+              "id": "e12_L",
+              "name": "Dr. Erik Lehnsher"
+          }
+      },
+      {
+          "id": "m-Drk",
+          "name": {
+              "id": "z1234",
+              "nameString": "Mutant History"
+          },
+          "startDate": "2024-01-02T03:00:00.000Z",
+          "endDate": "2024-12-27T03:00:00.000Z",
+          "teacher": {
+              "id": "s68_G",
+              "name": "Professor Charles Xavier"
+          }
+      },
+      {
+          "id": "w-Drk",
+          "name": {
+              "id": "56789",
+              "nameString": "Time Control"
+          },
+          "startDate": "2023-12-11T03:00:00.000Z",
+          "endDate": "2024-03-29T03:00:00.000Z",
+          "teacher": {
+              "id": "e12_L",
+              "name": "Dr. Erik Lehnsher"
+          }
+      },
+      {
+          "id": "g-Drk",
+          "name": {
+              "id": "fghij",
+              "nameString": "Mutant Ethics"
+          },
+          "startDate": "2023-11-20T03:00:00.000Z",
+          "endDate": "2024-02-02T03:00:00.000Z",
+          "teacher": {
+              "id": "s68_G",
+              "name": "Professor Charles Xavier"
+          }
+      },
+      {
+          "id": "liXGa",
+          "name": {
+              "id": "pqrst",
+              "nameString": "Telepathy and Telekinesis"
+          },
+          "startDate": "2023-11-20T03:00:00.000Z",
+          "endDate": "2024-06-28T03:00:00.000Z",
+          "teacher": {
+              "id": "s68_G",
+              "name": "Professor Charles Xavier"
+          }
+      }
+  ],
+  "enrollments": [
+      {
+          "id": "jop49",
+          "studentId": "2UeoA",
+          "courseId": "j-Drk"
+      },
+      {
+          "id": "feNW9",
+          "studentId": "H4Sbf",
+          "courseId": "l-Drk"
+      },
+      {
+          "id": "uhAUy",
+          "studentId": "wUHl9",
+          "courseId": "q-Drk"
+      },
+      {
+          "id": "xoj7o",
+          "studentId": "SxAzZ",
+          "courseId": "g-Drk"
+      },
+      {
+          "id": "0PCOc",
+          "studentId": "c_7yf",
+          "courseId": "h-Drk"
+      },
+      {
+          "id": "jnJbV",
+          "studentId": "M1lkv",
+          "courseId": "w-Drk"
+      },
+      {
+          "id": "tfwvG",
+          "studentId": "o6dkV",
+          "courseId": "m-Drk"
+      },
+      {
+          "id": "oxTq7",
+          "studentId": "V2eq2",
+          "courseId": "q-Drk"
+      }
+  ],
+  "coursesNames": [
+      {
+          "id": "abcde",
+          "nameString": "Control of Mutant Powers"
+      },
+      {
+          "id": "fghij",
+          "nameString": "Mutant Ethics"
+      },
+      {
+          "id": "klmno",
+          "nameString": "Combat Training"
+      },
+      {
+          "id": "pqrst",
+          "nameString": "Telepathy and Telekinesis"
+      },
+      {
+          "id": "uvwxy",
+          "nameString": "Weather Control"
+      },
+      {
+          "id": "z1234",
+          "nameString": "Mutant History"
+      },
+      {
+          "id": "56789",
+          "nameString": "Time Control"
+      }
+  ],
+  "teachers": [
+      {
+          "id": "s68_G",
+          "name": "Professor Charles Xavier"
+      },
+      {
+          "id": "e12_L",
+          "name": "Dr. Erik Lehnsher"
+      }
+  ]
+}
