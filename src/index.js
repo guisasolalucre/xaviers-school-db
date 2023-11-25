@@ -11,7 +11,7 @@ server.use(function (req, res, next) {
 server.use(middlewares);
 server.use(router);
 
-const PORT = 5920;
+const PORT = process.env.PORT || 5920;
 
 server.listen(PORT, () => {
   console.log(`JSON Server is running at PORT ${PORT}`);
